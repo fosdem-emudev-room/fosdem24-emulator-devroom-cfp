@@ -1,4 +1,4 @@
-# [FOSDEM 24 - Emulator Development Room CFP](https://fosdem.org/2024/schedule/track/emulator_development/)
+# [FOSDEM 24 - Emulator Development Room CFP](https://fosdem.org/2024/schedule/track/emulator/)
 The Call for papers for the FOSDEM emulator development room is hereby open!
 
 Once again, the upcoming FOSDEM 24 will take place at the [Université libre de Bruxelles, Belgium](https://fosdem.org/2024/practical/transportation/).
@@ -27,7 +27,7 @@ Really **anything** goes, but here are some ideas (for inspiration):
 - ...
 
 #### Topic overlap
-Some topics might be suitable or overlap with other rooms (such as the [Retro](https://fosdem.org/2024/schedule/track/retrocomputing/) & [Virtualization](https://fosdem.org/2024/schedule/track/virtualization_and_iaas/) rooms). In such cases we might contact the speaker and point that out, but ultimately it is up to the speaker where the talk should land.
+Some topics might be suitable or overlap with other rooms (such as the [Retro](https://fosdem.org/2024/schedule/track/retrocomputing/) & [Virtualization](https://fosdem.org/2024/schedule/track/virtualization-and-cloud-infrastructure/) rooms). In such cases we might contact the speaker and point that out, but ultimately it is up to the speaker where the talk should land.
 
 #### Desirable speakers
 We honestly don't care. Experienced speakers are very welcome, but hobbyists and/or first time speakers are equally welcome. As long as you have passion and/or knowledge you care to share.
