@@ -44,10 +44,10 @@ Pentabarf is longer available, instead you can submit talks through [pretalx](ht
 - duration
 
 ### Important Dates
-- **December 1st: submission deadline**
+- **December 9th: submission deadline**
   - FAQ - is the submission deadline final?
     - Technically speaking, you can submit talks as long as pretalx will allow it
-    - However, talks submitted before the 16th get a higher precedence
+    - However, talks submitted before the 9th get a higher precedence
 - ASAP: announcement selected talks
 - February 3rd: FOSDEM!
 
