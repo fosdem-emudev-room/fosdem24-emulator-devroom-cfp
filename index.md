@@ -14,7 +14,7 @@ Every year, thousands of developers of free and open source software from all ov
 - FOSDEM is free to attend. There is no registration.
 - [FOSDEM website](https://fosdem.org/)
 - [FOSDEM code of conduct](https://fosdem.org/2024/practical/conduct/)
-- [Emulator devroom schedule](https://fosdem.org/2024/schedule/track/emulator_development/)
+- [Emulator devroom schedule](https://fosdem.org/2024/schedule/track/emulator/)
 
 ### Desirable topics
 Really **anything** goes, but here are some ideas (for inspiration):
@@ -33,7 +33,7 @@ Some topics might be suitable or overlap with other rooms (such as the [Retro](h
 We honestly don't care. Experienced speakers are very welcome, but hobbyists and/or first time speakers are equally welcome. As long as you have passion and/or knowledge you care to share.
 
 ### How to submit your proposal
-Pentabarf is longer available, instead you can submit talks through [pretalx](https://pretalx.fosdem.org/fosdem-2024).
+Pentabarf is no longer available, instead you can submit talks through [pretalx](https://pretalx.fosdem.org/fosdem-2024).
 
 ### What should be in your submission
 - name
